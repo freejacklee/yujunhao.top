@@ -1,4 +1,14 @@
-  Prompt Engineering course
+---
+title: Prompt-Engineering-course
+author: Junhao
+date: '2023-04-28'
+slug: Prompt-Engineering-course
+categories:
+  - Hugo
+tags:
+  - blogdown
+---
+  Prompt-Engineering-course
 
 前谷歌/百度AI部门负责人吴恩达和OpenAI合作推出了免费的Prompt Engineering（提示工程师）课程。
 
