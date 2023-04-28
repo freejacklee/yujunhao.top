@@ -94,8 +94,9 @@ We created this User Guide for you. Be sure to check out the Code of Conduct com
 
 【邀请函-DeepLearning.AI】 https://community.deeplearning.ai/invites/BZTMVwUs1t
 
-
-
+翻译工具 via 
+* [immersive-translate/immersive-translate: Immersive Dual Web Page Translation Extension-沉浸式双语网页翻译扩展]https://github.com/immersive-translate/immersive-translate
+ 
 Logging
 
 20220428 虞骏豪/freejacklee init 
