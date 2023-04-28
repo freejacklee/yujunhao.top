@@ -1,3 +1,5 @@
+  Prompt Engineering course
+
 前谷歌/百度AI部门负责人吴恩达和OpenAI合作推出了免费的Prompt Engineering（提示工程师）课程。
 
 课程主要内容是教你书写AI提示词，并且最后会教你利用GPT开发一个AI聊天机器人。
