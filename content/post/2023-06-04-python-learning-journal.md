@@ -1,5 +1,5 @@
 ---
-title: 20230604python学习日记
+title: 2023-06-04-python-learning-journal
 author: Junhao
 date: '2023-06-04'
 slug: []
