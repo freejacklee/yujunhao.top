@@ -8,13 +8,19 @@ categories:
 tags:
   - Markdown
 ---
-  每天十点上床，十一点之前入睡，六点起床，早睡早起，心情和身体都越来越好。
+每天十点上床，十一点之前入睡，六点起床，早睡早起，心情和身体都越来越好。
+
 * [一个普通人的双相简历.pdf] https://mp.weixin.qq.com/s?__biz=MzI3NjUxNjQ0OQ==&mid=2247504180&idx=1&sn=a5d989a611642b89f38435ba0c371c0b&chksm=eb76ca3adc01432c4d54f8bbfafe5e186b557ea8e50216dabeb560ad7396efdec0aa4457f268&mpshare=1&scene=1&srcid=0612eF82unDlwpt3YXFecaH9&sharer_sharetime=1686540465698&sharer_shareid=a697a75b41763c317bec849da7e5a35a#rd
-  徐医生了解清楚我的情况后，调了药，也开了一些检查。他详细说明了为什么要开这些药和检查，还叮嘱我去把以前医院做过的量表结果也拿回来给他看。开完药和检查之后，他没有像之前的医生一样立即请我离开，而是特地提了几个要求：早睡早起、做运动、读读书。他认真地看着我眼睛说：“不管你以后回不回去那个学校读书，你现在都有大把青春年华，可以大量读书，读小说也可以。”
+  
+徐医生了解清楚我的情况后，调了药，也开了一些检查。他详细说明了为什么要开这些药和检查，还叮嘱我去把以前医院做过的量表结果也拿回来给他看。开完药和检查之后，他没有像之前的医生一样立即请我离开，而是特地提了几个要求：早睡早起、做运动、读读书。他认真地看着我眼睛说：“不管你以后回不回去那个学校读书，你现在都有大把青春年华，可以大量读书，读小说也可以。”
+
 * [这一次，我不再只是医生的“教学工具” | 橙加鱼的求医之路02] https://mp.weixin.qq.com/s?__biz=MzI3NjUxNjQ0OQ==&mid=2247492301&idx=1&sn=550e50841d5a6e0e5039033ee2467488&chksm=eb76f9c3dc0170d5d1cab39b449ee5af18ea5a8af7bd3cebca69e404e33be2938552ab0abfd7&mpshare=1&scene=1&srcid=0612RMlSEAkOIEigDO4AOhRt&sharer_sharetime=1686540972725&sharer_shareid=a697a75b41763c317bec849da7e5a35a#rd
-  读研一啦，现在的我尽量早起，我尽量吃早饭，我尽量好好度过每一天。哪怕活着本身没什么意义，我也想好好活着。
+
+读研一啦，现在的我尽量早起，我尽量吃早饭，我尽量好好度过每一天。哪怕活着本身没什么意义，我也想好好活着。
+
 * [双相不只让我变成懒孩子 | 每周话题] https://mp.weixin.qq.com/s?__biz=MzI3NjUxNjQ0OQ==&mid=2247488121&idx=1&sn=85f39abf2106f72470d15e541471d18b&chksm=eb750977dc028061023bfc4a878acc59c9c0440b8db305c71ef5f5e52b19ee9800e0129e9b8e&mpshare=1&scene=1&srcid=0612JktRV2h40B0Y6nAiCiTg&sharer_sharetime=1686541036025&sharer_shareid=a697a75b41763c317bec849da7e5a35a#rd
-  轻度躁狂的自我调节 
+
+轻度躁狂的自我调节 
   
 延迟满足自己的欲望。
 
@@ -53,6 +59,7 @@ tags:
 就算有前进 有后退 有停滞 有反复
 我们都小小地 强大地 绽放着
 对生命的热爱
+
 * [我不认为我们是患者]
 https://mp.weixin.qq.com/s?__biz=MzI3NjUxNjQ0OQ==&mid=2247505620&idx=1&sn=d4b152588d4b038e43e25d9d409d83d5&chksm=eb76cddadc0144cc61c087463465d31365a526b5efcb14292e3f75587e767d6b91ef3fbc42f7&mpshare=1&scene=1&srcid=0612nMco3i2TfWm6vLkxTQcx&sharer_sharetime=1686540715381&sharer_shareid=a697a75b41763c317bec849da7e5a35a#rd
 
