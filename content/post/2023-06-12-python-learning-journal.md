@@ -8,6 +8,8 @@ categories:
 tags:
   - Markdown
 ---
+  今天没有练习代码，在看大海老师文档。
+
 每天十点上床，十一点之前入睡，六点起床，早睡早起，心情和身体都越来越好。
 
 * [一个普通人的双相简历.pdf] https://mp.weixin.qq.com/s?__biz=MzI3NjUxNjQ0OQ==&mid=2247504180&idx=1&sn=a5d989a611642b89f38435ba0c371c0b&chksm=eb76ca3adc01432c4d54f8bbfafe5e186b557ea8e50216dabeb560ad7396efdec0aa4457f268&mpshare=1&scene=1&srcid=0612eF82unDlwpt3YXFecaH9&sharer_sharetime=1686540465698&sharer_shareid=a697a75b41763c317bec849da7e5a35a#rd
