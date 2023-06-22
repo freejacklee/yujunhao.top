@@ -1,6 +1,6 @@
 ---
 title: 2023-06-22-python-learning-journal
-author: Junhaoo
+author: Junhao
 date: '2023-06-22'
 slug: []
 categories:
