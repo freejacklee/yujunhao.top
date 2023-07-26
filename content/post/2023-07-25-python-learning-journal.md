@@ -1,7 +1,7 @@
 ---
 title: 2023-07-25-python-learning-journal
 author: Junhao
-date: '2023-07-26'
+date: '2023-07-25'
 slug: []
 categories:
   - Python
