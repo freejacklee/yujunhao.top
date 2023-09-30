@@ -8,4 +8,4 @@ categories:
 tags:
   - Markdown
 ---
-  加油，今天搞定前端第一课。
+  加油，明天搞定前端第一课。
