@@ -52,7 +52,7 @@ tags:
 
 #### 作品章启发：用作品牵引学习与工作
 
-![《工作的心智》作品章](https://gitee.com/junhaoyu/work20221111/raw/master/img/202405031201844.jpg)
+![](/post/2024-05-03-The-Mind-At-Work-Book-Review_files/《工作的心智》作品章.jpg)
 
 我们这一代人在成长过程中普遍默认接受了一套逻辑：“先学习——再工作——然后才是出作品，但是这套逻辑显然存在问题，AI时代的到来进一步放大了这种问题，阳志平老师在书中为我们提供了更好的人生发展路径，那就是用作品牵引学习与工作，即用创作作品为目标去学习，把创作作品作为动力，以作品为引导，驱动学习与工作，尽早创作出更优质的作品。长期使用用作品牵引学习与工作的策略来构建个人人生发展飞轮，随着飞轮转动的速度不断加快，你的人生发展也会越来越顺利，从而让你更加与他人不同。
 
@@ -62,7 +62,7 @@ tags:
 
 #### 竞争章启发：提升工作中核心竞争力的VCSL模型
 
-![《工作的心智》竞争章](https://gitee.com/junhaoyu/work20221111/raw/master/img/202405031202163.jpg)
+![](/post/2024-05-03-The-Mind-At-Work-Book-Review_files/《工作的心智》竞争章.jpg)
 
 阳志平老师在书中为我们提供了一个提升工作中核心竞争力的模型公式：核心竞争力=价值创造（V）+成本控制（C）+持续稳定（S）+传承影响（L）。
 
@@ -84,7 +84,7 @@ L 传承影响 Legacy Influence：加杠杆，产生复利效应。资金杠杆�
 
 #### 人际章启发：搞定4种不同类型贵人的策略
 
-![《工作的心智》人际章](https://gitee.com/junhaoyu/work20221111/raw/master/img/202405031306817.jpg)
+![](/post/2024-05-03-The-Mind-At-Work-Book-Review_files/《工作的心智》人际章.jpg)
 
 （图片中特征向量中心性下面的两个字是教父。）
 
@@ -151,7 +151,7 @@ L 传承影响 Legacy Influence：加杠杆，产生复利效应。资金杠杆�
 
 Kimi Chat 网址：https://kimi.moonshot.cn/
 
-![《工作的心智》共读营第二期](https://gitee.com/junhaoyu/work20221111/raw/master/img/202405031149580.jpeg)
+![](/post/2024-05-03-The-Mind-At-Work-Book-Review_files/《工作的心智》共读营第二期.jpeg)
 
 
 
