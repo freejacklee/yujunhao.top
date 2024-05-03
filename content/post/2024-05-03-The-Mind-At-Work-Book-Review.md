@@ -50,8 +50,6 @@ tags:
 
 下面我来简单为大家介绍一下本书的必读三章：作品、竞争、人际为我们带来的启发。
 
-
-
 #### 作品章启发：用作品牵引学习与工作
 
 ![《工作的心智》作品章](https://gitee.com/junhaoyu/work20221111/raw/master/img/202405031201844.jpg)
@@ -155,9 +153,7 @@ Kimi Chat 网址：https://kimi.moonshot.cn/
 
 ![《工作的心智》共读营第二期](https://gitee.com/junhaoyu/work20221111/raw/master/img/202405031149580.jpeg)
 
-5、本文首发于公众号虞骏豪之闲月映水录，本文的完整链接版本 已备份在个人网站 https://yujunhao.top/ 上。
 
-公众号文章链接：
 
 Ref：
 
@@ -207,4 +203,4 @@ logging
 
 202404292013 慢改 
 
-202404291613 快写   
+202404291613 快写 
