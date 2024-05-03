@@ -151,6 +151,10 @@ L 传承影响 Legacy Influence：加杠杆，产生复利效应。资金杠杆�
 
 Kimi Chat 网址：https://kimi.moonshot.cn/
 
+5、5、本文首发于公众号虞骏豪之闲月映水录，本文的完整链接版本 已备份在个人网站 https://yujunhao.top/ 上。
+
+博客文章地址：https://yujunhao.top/post/book-review/
+
 ![](/post/2024-05-03-The-Mind-At-Work-Book-Review_files/《工作的心智》共读营第二期.jpeg)
 
 
