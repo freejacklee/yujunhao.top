@@ -1,5 +1,5 @@
 ---
-title: 2024-05-03-The-Mind-At-Work-Book-Review.md
+title: 2024-05-03-The-Mind-At-Work-Book-Review
 author: Junhao
 date: '2024-05-03'
 slug: Book Review
