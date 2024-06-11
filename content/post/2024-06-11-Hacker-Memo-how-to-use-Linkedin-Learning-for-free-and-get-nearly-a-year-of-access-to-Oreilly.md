@@ -1,6 +1,5 @@
 ---
-title: 2024-06-11-Hacker Memo: How to use Linkedin Learning for free and get nearly
-  a year of access to OReilly
+title: 2024-06-11-Hacker-Memo-How-to-use-Linkedin-Learning-for-free-and-get-nearly-a-year-of-access-to-Oreilly
 author: Y&Y
 date: '2024-06-11'
 slug: 2024-06-11-hacker-memo-how-to-use-Linkedin-Learning-for-free-and-get-nearly-a-year-of-access-to-Oreilly
@@ -9,7 +8,7 @@ categories:
 tags:
   - Markdown
 ---
-黑客手记：如何免费使用 Linkedin Learning 和 获取接近一年的O'Reilly访问权限
+  黑客手记：如何免费使用 Linkedin Learning 和 获取接近一年的O'Reilly访问权限
 
 Hacker Memo: How to use linkedin learning for free and get nearly a year of access to O'Reilly
 
@@ -40,7 +39,7 @@ Hacker Memo: How to use linkedin learning for free and get nearly a year of acce
 ### 注意事项：
 
 - 使用图书馆电子卡访问的 O'Reilly Learning 订阅是基于库的，个性化功能在此会话期间不会保存，建议及时记录学习进度。
--  使用图书馆电子卡访问的 O'Reilly Learning 订阅为您提供了超过 35K 本书和 30K 小时的视频等资源的免费访问。
+- 使用图书馆电子卡访问的 O'Reilly Learning 订阅为您提供了超过 35K 本书和 30K 小时的视频等资源的免费访问。
 
 ### 其他资源：
 
