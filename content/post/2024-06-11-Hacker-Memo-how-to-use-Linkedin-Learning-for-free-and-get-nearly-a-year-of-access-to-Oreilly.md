@@ -1,5 +1,5 @@
 ---
-title: '2024-06-11-Hacker Memo: How to use Linkedin Learning for free and get nearly
+title: 2024-06-11-Hacker Memo: How to use Linkedin Learning for free and get nearly
   a year of access to OReilly
 author: Y&Y
 date: '2024-06-11'
