@@ -1,6 +1,6 @@
 ---
 title: '2024-06-11-Hacker Memo: How to use Linkedin Learning for free and get nearly
-  a year of access to O'Reilly
+  a year of access to OReilly
 author: W&Y
 date: '2024-06-11'
 slug: 2024-06-11-hacker-memo-how-to-use-Linkedin-Learning-for-free-and-get-nearly-a-year-of-access-to-Oreilly
