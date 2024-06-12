@@ -22,7 +22,7 @@ Hacker Memo: How to use linkedin learning for free and get nearly a year of acce
 
 
 
-根据W&Y撰写的指南，以下是如何免费使用 LinkedIn Learning 和获取接近一年的 O'Reilly 访问权限的摘要：
+根据Y&Y撰写的指南，以下是如何免费使用 LinkedIn Learning 和获取接近一年的 O'Reilly 访问权限的摘要：
 
 ### 免费使用 LinkedIn Learning 步骤：
 
