@@ -22,7 +22,7 @@ Hacker Memo: How to use linkedin learning for free and get nearly a year of acce
 
 
 
-根据W&Y撰写的指南，以下是如何免费使用 LinkedIn Learning 和获取接近一年的 O'Reilly 访问权限的摘要：
+根据Y&Y撰写的指南，以下是如何免费使用 LinkedIn Learning 和获取接近一年的 O'Reilly 访问权限的摘要：
 
 ### 免费使用 LinkedIn Learning 步骤：
 
@@ -62,7 +62,8 @@ Hacker Memo: How to use linkedin learning for free and get nearly a year of acce
 
 
 
-另附美国芝加哥公共图书馆提供的电子资源： https://www.chipublib.org/resource/
+另附美国芝加哥公共图书馆提供的电子资源：
+https://www.chipublib.org/resource/
 
 
 
@@ -101,7 +102,8 @@ Your institution provides vou free access to our 35K+ books. 30K+ hours of video
 
 
 
-另附美国加利福尼亚州圣何西公共图书馆提供的电子资源：https://www.sjpl.org/online-resources/
+另附美国加利福尼亚州圣何西公共图书馆提供的电子资源：
+https://www.sjpl.org/online-resources/
 
 
 
