@@ -10,7 +10,7 @@ tags:
 ---
 接下来几年我个人成长和学习方向的指引：
 
-![](/post/2024-07-05-My-Personal-Growth-and-Learning-Direction-in-the-Next-Few-Years_files/Python 人的大模型机会.jpg)
+![](/post/2024-07-05-My-Personal-Growth-and-Learning-Direction-in-the-Next-Few-Years_files/Python 人的大模型机会.png)
 
 
 via 孙志岗老师
