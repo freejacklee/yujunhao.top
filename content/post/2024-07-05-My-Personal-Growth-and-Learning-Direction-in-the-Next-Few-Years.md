@@ -10,7 +10,7 @@ tags:
 ---
 接下来几年我个人成长和学习方向的指引：
 
-![Python 人的大模型机会](https://gitee.com/junhaoyu/work20221111/raw/master/img/202407051047064.jpg)
+![](/post/2024-07-05-My-Personal-Growth-and-Learning-Direction-in-the-Next-Few-Years_files/Python 人的大模型机会.jpg)
 
 
 
@@ -20,11 +20,11 @@ via 孙志岗老师
 
 - [哈工大前教授研发ChatALL：一机在手，17个聊天模型共舞 | AI万花筒| 连接AI新世界] https://www.aiwht.com/5818.html  
 
-![孙志岗1](https://gitee.com/junhaoyu/work20221111/raw/master/img/202407051045317.png)
+![](/post/2024-07-05-My-Personal-Growth-and-Learning-Direction-in-the-Next-Few-Years_files/孙志岗1.png)
 
-![孙志岗2](https://gitee.com/junhaoyu/work20221111/raw/master/img/202407051046133.png)
+![](/post/2024-07-05-My-Personal-Growth-and-Learning-Direction-in-the-Next-Few-Years_files/孙志岗2.png)
 
-![孙志岗3](https://gitee.com/junhaoyu/work20221111/raw/master/img/202407051046305.png)
+![](/post/2024-07-05-My-Personal-Growth-and-Learning-Direction-in-the-Next-Few-Years_files/孙志岗3.png)
 
 
 
