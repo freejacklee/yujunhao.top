@@ -13,7 +13,6 @@ tags:
 ![](/post/2024-07-05-My-Personal-Growth-and-Learning-Direction-in-the-Next-Few-Years_files/Python 人的大模型机会.jpg)
 
 
-
 via 孙志岗老师
 
 - [GitHub - sunner/ChatALL: Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers] https://github.com/sunner/ChatALL
