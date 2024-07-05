@@ -9,6 +9,7 @@ tags:
   - Markdown
 ---
 接下来几年我个人成长和学习方向的指引：
+
 ![](/post/2024-07-05-My-Personal-Growth-and-Learning-Direction-in-the-Next-Few-Years_files/Python人的大模型机会 孙志岗老师.png)
 
 
@@ -29,3 +30,5 @@ via 孙志岗老师
 logging
 
 202407032002 YJH init
+
+https://yujunhao.top/post/2024-07-05-My-Personal-Growth-and-Learning-Direction-in-the-Next-Few-Years_files/%E5%AD%99%E5%BF%97%E5%B2%971.png
