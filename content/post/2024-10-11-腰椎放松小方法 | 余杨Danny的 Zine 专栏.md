@@ -25,7 +25,7 @@ tags:
 
 
 
-![](/post/2024-10-11-腰椎放松小方法 | 余杨Danny的 Zine 专栏_files/腰.jpg)
+![](/post/2024-10-11-腰椎放松小方法 | 余杨Danny的 Zine 专栏_files/Snipaste_2024-10-11_20-36-08.jpg)
 图片代表积极休息姿势
 
 
