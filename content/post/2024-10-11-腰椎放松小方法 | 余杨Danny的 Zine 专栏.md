@@ -24,8 +24,8 @@ tags:
 
 
 
-![腰](https://gitee.com/junhaoyu/work20221111/raw/master/img/202410112016031.jpg)
 
+![](/post/2024-10-11-腰椎放松小方法 | 余杨Danny的 Zine 专栏_files/腰.jpg)
 图片代表积极休息姿势
 
 
